@@ -9,16 +9,16 @@
     </head>
     
     <body>
+        <header id="pageHeader"></header>
+
         <h1>Danny Vo's Portfolio Website <i class="fas fa-egg"></i></h1>
 
         <main id="page_main">        
             <section>
-                <h2>My Profile Picture</h2>
                 <figure>
-                    <img src="/DannyVo_portfolio_website/img/DansGame.png" alt="A profile picture of me.">
+                    <img src="img/DansGame.png" alt="A picture of me">
                 </figure>
            </section>
-
            <section id="block_tags">
                <blockquote>
                 "I get my energy from my inner G." - TerryBogard13                   
