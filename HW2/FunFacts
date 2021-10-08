@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/23ea86dd4a.js" crossorigin="anonymous"></script>
-    <title>Danny Vo's Portfolio</title>
+    <title>Danny Vo's Portfolio <i class="fas fa-egg"></i></title>
 </head>
 <body>
-    <h1> Some fun facts about me </h1>
+    <h1> Some fun facts about me <i class="fas fa-egg"></i></h1>
 
     <p>My current favorite book title, with cover image,
         link to where others can purchase, and short description about it."
@@ -22,6 +22,15 @@
         using page within page style aka frame display.
     </p>
 
-    <footer> same as other footers </footer>
+    <hr>
+    <footer id="page_footer">
+        <p>Want to contact me?</p>
+        <address>
+            Email: dannyvo@oakland.edu <br>
+            Phone: 978-479-1912 <br>
+            1845 W Higgins Lake Dr <br>
+            Roscommon, Michigan
+        </address>
+    </footer>
 </body>
 </html>

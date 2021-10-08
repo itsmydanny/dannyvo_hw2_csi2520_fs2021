@@ -1,1 +1,44 @@
-! 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/23ea86dd4a.js" crossorigin="anonymous"></script>
+    <title>Danny Vo's Portfolio <i class="fas fa-egg"></i></title>
+</head>
+<body>
+    <h1>Danny Vo - Resume <i class="fas fa-egg"></i></h1>
+
+    <h2>address, email, cellphone number</h2>
+
+    <p>Objective. This is a brief description about my professional objective 
+        in one or two sentences.
+    </p>
+
+    <p>Professional Experience. Subsections with each one listing
+        a specific experience wtih "Start date -- End Date, Job Role, Company Name, Location"
+        Then after each sub section, a brief description of the job role.
+    </p>
+
+    <p>Educational experiences. This is in tabular content with 2 columns.
+        First column "start--end", which outlines start and expected end year.
+        Second column "Degree", outlines name of degree, place, and location.
+    </p>
+    
+    <p>Extracurricular interests and hobbies. A sentence or two
+        describing extracurricular interests and hobbies.
+    </p>
+
+    <hr>
+    <footer id="page_footer">
+        <p>Want to contact me?</p>
+        <address>
+            Email: dannyvo@oakland.edu <br>
+            Phone: 978-479-1912 <br>
+            1845 W Higgins Lake Dr <br>
+            Roscommon, Michigan
+        </address>
+    </footer>
+</body>
+</html>
