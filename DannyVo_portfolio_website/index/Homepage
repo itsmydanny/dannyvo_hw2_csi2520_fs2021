@@ -13,6 +13,14 @@
 
         <h1>Danny Vo's Portfolio Website <i class="fas fa-egg"></i></h1>
 
+        <nav id="nav_bar">
+            <menu class="menu">
+                <a href="index/Homepage.html">Homepage</a>
+                <a href="html/my_resume.html">My Resume</a>
+                <a href="html/my_fun_facts">My Fun Facts</a>
+            </menu>
+        </nav>
+
         <main id="page_main">        
             <section>
                 <figure>
