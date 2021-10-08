@@ -10,6 +10,13 @@
 <body>
     <h1>Danny Vo - Resume <i class="fas fa-egg"></i></h1>
 
+    <nav id="nav_bar">
+        <menu class="menu">
+            <a href="index/Homepage.html">Homepage</a>
+            <a href="html/my_resume.html">My Resume</a>
+            <a href="html/my_fun_facts">My Fun Facts</a>
+        </menu>
+    </nav>
     <hr>
     <h2>Address: 1845 W Higgins Lake Dr <br> 
     Email: dannyvo@oakland.edu <br>
@@ -62,8 +69,10 @@
 
     </table>
     
-    <p>Extracurricular interests and hobbies. A sentence or two
-        describing extracurricular interests and hobbies.
+    <hr>
+    <h2>Extracurricular Intrests and Hobbies</h2>
+    <p> I like to play video games in my spare time, which include rythym games like Rockband, Beatmania, and Gitadora.
+        My favorite thing in the entire world is my pet cat, Lilly, and I have taken care of her since she was a baby kitten.
     </p>
 
     <hr>
