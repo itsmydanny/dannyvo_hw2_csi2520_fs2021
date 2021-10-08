@@ -24,7 +24,7 @@
         <main id="page_main">        
             <section>
                 <figure>
-                    <img src="DannyVo_portfolio_website\img\DansGame.png" alt="A picture of me">
+                    <img src="DannyVo_portfolio_website\html\img\DansGame.png" alt="A picture of me">
                 </figure>
            </section>
            <section id="block_tags">
