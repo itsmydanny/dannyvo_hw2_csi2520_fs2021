@@ -15,7 +15,7 @@
             <section>
                 <h2>My Profile Picture</h2>
                 <figure>
-                    <img src="img\DansGame.png" alt="A profile picture of me.">
+                    <img src="/DannyVo_portfolio_website/img/DansGame.png" alt="A profile picture of me.">
                 </figure>
            </section>
 
