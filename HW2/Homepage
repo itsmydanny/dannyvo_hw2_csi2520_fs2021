@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Danny Vo's Portfolio</title>
+
+        <!-- Other info like CSS and Scripts go here-->
+    </head>
+    
+    <body>
+        <h1>Danny Vo's Portfolio</h1>
+
+        <h2>Profile Picture</h2>
+
+        <h2>Quote</h2>
+
+        <p>This is a paragraph introducing myself.</p>
+
+        <footer>This is specifying copyright info, email, and other socials.</footer>
+
+    </body>
+</html>
