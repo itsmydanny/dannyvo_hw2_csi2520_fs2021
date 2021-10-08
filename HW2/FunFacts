@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/23ea86dd4a.js" crossorigin="anonymous"></script>
+    <title>Danny Vo's Portfolio</title>
+</head>
+<body>
+    <h1> Some fun facts about me </h1>
+
+    <p>My current favorite book title, with cover image,
+        link to where others can purchase, and short description about it."
+    </p>
+
+    <p>My current favorite audio track title with artist name,
+        short audio sample, and link to purchase said track.
+    </p>
+
+    <p>My current favorite movie or tv series, an embedded youtube trailer,
+        using page within page style aka frame display.
+    </p>
+
+    <footer> same as other footers </footer>
+</body>
+</html>
