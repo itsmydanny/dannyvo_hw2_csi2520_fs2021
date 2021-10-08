@@ -17,7 +17,7 @@
             <menu class="menu">
                 <a href="index.md">Homepage</a>
                 <a href="DannyVo_portfolio_website\html\my_resume.html">My Resume</a>
-                <a href="DannyVo_portfolio_website\html\my_fun_facts.html">My Fun Facts</a>
+                <a href="DannyVo_portfolio_website/html/my_fun_facts.html">My Fun Facts</a>
             </menu>
         </nav>
 
