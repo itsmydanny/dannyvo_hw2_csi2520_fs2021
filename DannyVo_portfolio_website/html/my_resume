@@ -10,21 +10,34 @@
 <body>
     <h1>Danny Vo - Resume <i class="fas fa-egg"></i></h1>
 
-    <h2>address, email, cellphone number</h2>
+    <hr>
+    <h2>Address: 1845 W Higgins Lake Dr <br> 
+    Email: dannyvo@oakland.edu <br>
+    Cellphone: (978)-479-1912</h2>
+    <hr>
 
-    <p>Objective. This is a brief description about my professional objective 
-        in one or two sentences.
+    <p> I'd like to gain more proficiency with computers and eventually shadow someone in the industry. 
+        Be that physically working with, or coding with, I'd like them to be a large part of my life.
     </p>
 
-    <p>Professional Experience. Subsections with each one listing
-        a specific experience wtih "Start date -- End Date, Job Role, Company Name, Location"
-        Then after each sub section, a brief description of the job role.
-    </p>
+    <table id="html_table table2" border="1">
+        <caption>Professional experience</caption>
+        
+        <tr>
+            <th>Start -- End</th>
+            <th>Job Role</th>
+            <th>Company Name</th>
+            <th>Location</th>
+        </tr>
+        <tr>
+            <td>June 2013 -- June 2019</td>
+            <td>Nail Technician</td>
+            <td>Regal Nails</td>
+            <td>Houghton Lake</td>
+        </tr>
+    </table>
 
-    <p>Educational experiences. This is in tabular content with 2 columns.
-        First column "start--end", which outlines start and expected end year.
-        Second column "Degree", outlines name of degree, place, and location.
-    </p>
+
     
     <p>Extracurricular interests and hobbies. A sentence or two
         describing extracurricular interests and hobbies.
