@@ -20,8 +20,8 @@
         Be that physically working with, or coding with, I'd like them to be a large part of my life.
     </p>
 
-    <table id="html_table table2" border="1">
-        <caption>Professional experience</caption>
+    <table border="1">
+        <caption>Professional Experience</caption>
         
         <tr>
             <th>Start -- End</th>
@@ -37,7 +37,30 @@
         </tr>
     </table>
 
+    <table border="1">
+        <caption>Educational Experience</caption>
+        <tr>
+            <th>Start -- End</th>
+            <th>Degree</th>
+        </tr>
+        <tr>
+            <td>August 2014 -- August 2018</td>
+            <td rowspan="3">Associates in Science and Arts<br>
+            Kirtland Community College<br>
+            St.Helen, Michigan
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+        <td>August 2019 -- August 2022</td>
+        <td rowspan="3">Bachelor of Science in Engineering and Computer Science<br>
+        Oakland Community College<br>
+        Aubrun Hills, Michigan
+        </td>
+        </tr>
 
+    </table>
     
     <p>Extracurricular interests and hobbies. A sentence or two
         describing extracurricular interests and hobbies.
